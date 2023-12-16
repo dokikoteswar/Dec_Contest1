@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dec_Contest1/static/css/main.67b7e246.css",
+    "main.js": "/Dec_Contest1/static/js/main.f8aa039e.js",
+    "index.html": "/Dec_Contest1/index.html",
+    "main.67b7e246.css.map": "/Dec_Contest1/static/css/main.67b7e246.css.map",
+    "main.f8aa039e.js.map": "/Dec_Contest1/static/js/main.f8aa039e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b7e246.css",
+    "static/js/main.f8aa039e.js"
+  ]
+}
